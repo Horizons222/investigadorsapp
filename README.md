@@ -1,8 +1,4 @@
-Política de Privacidad para [Nombre de la Aplicación]
-
-Última actualización: [Fecha]
-
-Gracias por elegir [Nombre de la Aplicación]. Estamos comprometidos con la protección de su privacidad. Esta Política de Privacidad ("Política") explica cómo [Nombre de la Entidad o Desarrolladores], los creadores de [Nombre de la Aplicación], manejan su información personal o datos cuando utiliza nuestra aplicación [Nombre de la Aplicación] ("Aplicación").
+Política de Privacidad de la aplicación "Coneix Masllorenç"
 
 1. Información que Recopilamos
 
@@ -28,6 +24,8 @@ Aunque no recopilamos datos personales, nos tomamos la seguridad muy en serio y 
 
 Nos reservamos el derecho de modificar esta política en cualquier momento. Si hacemos cambios en la Política, se lo notificaremos actualizando la fecha en este documento.
 
-7. Contacto
+7. Consentimiento
 
-Si tiene alguna pregunta o comentario sobre esta Política, no dude en contactarnos en [Información de Contacto].
+Al usar nuestra aplicación, usted acepta nuestra política de privacidad.
+
+Si tiene alguna pregunta o comentario sobre esta Política, no dude en contactarnos en: marcossar1986@gmai.com
