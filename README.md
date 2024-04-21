@@ -1,4 +1,4 @@
-Política de Privacidad de la aplicación "Coneix Masllorenç"
+Política de Privacidad de la aplicación para conocer nuestro entorno.
 
 1. Información que Recopilamos
 
