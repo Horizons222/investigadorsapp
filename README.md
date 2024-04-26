@@ -1,4 +1,4 @@
-Política de Privacidad de la aplicación para conocer nuestro entorno.
+Política de Privacidad de la aplicación "Descobreix Masllorenç".
 
 1. Información que Recopilamos
 
